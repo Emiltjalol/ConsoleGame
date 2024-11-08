@@ -1,0 +1,14 @@
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.AssemblyInfo.cs
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\bin\Debug\net8.0\Konsollspelet2.exe
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\bin\Debug\net8.0\Konsollspelet2.deps.json
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\bin\Debug\net8.0\Konsollspelet2.runtimeconfig.json
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\bin\Debug\net8.0\Konsollspelet2.dll
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\bin\Debug\net8.0\Konsollspelet2.pdb
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.dll
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\refint\Konsollspelet2.dll
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.pdb
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\Konsollspelet2.genruntimeconfig.cache
+C:\Users\Emil\source\repos\Konsollspelet2\Konsollspelet2\obj\Debug\net8.0\ref\Konsollspelet2.dll

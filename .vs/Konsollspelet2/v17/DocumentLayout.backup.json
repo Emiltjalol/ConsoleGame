@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|c:\\users\\emil\\source\\repos\\konsollspelet2\\konsollspelet2\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909C7E91-7F55-4672-B160-BCEFC850A4B7}|Konsollspelet2\\Konsollspelet2.csproj|solutionrelative:konsollspelet2\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Items.cs",
+              "RelativeToolTip": "Konsollspelet2\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:39:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Food.cs",
+              "RelativeToolTip": "Konsollspelet2\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:39:14.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Models\\Character.cs",
+              "RelativeToolTip": "Konsollspelet2\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:37:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Draw.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\Draw.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Draw.cs",
+              "RelativeToolTip": "Konsollspelet2\\Draw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:35:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\GameLogic.cs",
+              "RelativeToolTip": "Konsollspelet2\\GameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:34:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Program.cs",
+              "RelativeDocumentMoniker": "Konsollspelet2\\Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\Konsollspelet2\\Konsollspelet2\\Program.cs",
+              "RelativeToolTip": "Konsollspelet2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:33:42.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
